@@ -5,7 +5,7 @@ USE professionals;
 CREATE TABLE professionals_data (
   Name VARCHAR(50),
   Contact VARCHAR(50),
-  Specialization (100)
+  Specialization VARCHAR(100)
 );
 
 
