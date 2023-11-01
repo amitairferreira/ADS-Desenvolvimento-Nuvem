@@ -16,6 +16,7 @@ Crie uma aplicação em docker-compose na nuvem consistindo em dois serviços.
   |         
   |- 📁 db
   |   |- 📑 init.sql
+  |
   |- 📑 docker-compose.yml
 
 ```
