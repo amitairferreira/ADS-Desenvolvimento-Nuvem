@@ -14,8 +14,8 @@ Crie uma aplicação em docker-compose na nuvem consistindo em dois serviços.
   |   |- 📑 app.py
   |   |- 📑 requirements.txt
   |         
-  |-  |- 📁 db
-  |         |- 📑 init.sql
+  |- 📁 db
+  |   |- 📑 init.sql
   |- 📑 docker-compose.yml
 
 ```
