@@ -20,3 +20,5 @@ Crie uma aplicação em docker-compose na nuvem consistindo em dois serviços.
   |- 📑 docker-compose.yml
 
 ```
+
+## Aplicação em execução
