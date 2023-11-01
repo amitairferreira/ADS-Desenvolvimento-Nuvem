@@ -22,3 +22,5 @@ Crie uma aplicação em docker-compose na nuvem consistindo em dois serviços.
 ```
 
 ## Aplicação em execução
+
+<a href=“https://youtu.be/MB4P19-Przc“> Visualizar Execução</a>
